@@ -4,7 +4,7 @@
 {
     "name": "Google Tag Manager",
     "version": "14.0.1.0.0",
-    "author": "ABF OSIELL, Tecnativa, Odoo Community Association (OCA), Glodo",
+    "author": "ABF OSIELL, Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
     "installable": True,
