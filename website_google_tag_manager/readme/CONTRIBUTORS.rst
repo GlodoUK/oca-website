@@ -2,5 +2,3 @@
 * `Tecnativa <https://www.tecnativa.com>`__:
   * Cristina Martin R.
 * Bjorn Billen <bjorn.billen@dynapps.be>
-* `Glodo <https://glodo.uk>`__:
-  * Elliott Bristow
